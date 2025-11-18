@@ -12,3 +12,4 @@ C:\Users\Acer\Desktop\Week 4 Assignment\Week4Practical\obj\Debug\net9.0\refint\W
 C:\Users\Acer\Desktop\Week 4 Assignment\Week4Practical\obj\Debug\net9.0\Week4Practical.pdb
 C:\Users\Acer\Desktop\Week 4 Assignment\Week4Practical\obj\Debug\net9.0\Week4Practical.genruntimeconfig.cache
 C:\Users\Acer\Desktop\Week 4 Assignment\Week4Practical\obj\Debug\net9.0\ref\Week4Practical.dll
+C:\Users\Acer\Desktop\Week 4 Assignment\Week4Practical\obj\Debug\net9.0\Week4Practical.sourcelink.json
