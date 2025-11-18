@@ -11,9 +11,6 @@ namespace Week4Practical
         // Static Fields
         public static string schoolName = "Him Shikhar English School";
     
-      
-        
-
 
     }
 }
